@@ -1,0 +1,94 @@
+* {
+    font-family: 'Baloo Da 2', cursive !important; 
+    font-size: 18pt !important;
+}
+
+#demo{
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+
+.table-n{
+    color: white;
+}
+.iday, .dayn{
+    visibility: hidden;
+    position: absolute;
+}
+/*
+<table class="table table-hover table-dark">
+            <thead>
+                <tr class="sticky-top bg-dark" style="color: rgb(36, 238, 36);">
+                    <th scope="col">রমাদান</th>
+                    <th scope="col">ইংরেজি</th>
+                    <th scope="col">সেহরী</th>
+                    <th scope="col">ইফতার</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">০১</th>
+                    <td>২৫ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০২</th>
+                    <td>২৬ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৩</th>
+                    <td>২৭ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৪</th>
+                    <td>২৮ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৫</th>
+                    <td>২৯ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৬</th>
+                    <td>৩০ এপ্রিল</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৭</th>
+                    <td>০১ মে</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৮</th>
+                    <td>০২ মে</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">০৯</th>
+                    <td>০৩ মে</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+                <tr>
+                    <th scope="row">১০</th>
+                    <td>০৪ মে</td>
+                    <td>০৪-১১ মিঃ</td>
+                    <td>৬-২৮ মিঃ</td>
+                </tr>
+
+
+            </tbody>
+        </table>*/
